@@ -60,14 +60,14 @@ console.log(chalk.bold.cyan(`
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀
-¤═―— ⎧ 𝐀𝐑𝐋𝐄𝐍𝐃 𝐍𝐄𝐖 𝐁𝐀𝐈𝐋𝐄𝐘𝐒 ⎭ ⊱―—═¤
+¤═―— ⎧  𝐁𝐀𝐈𝐋𝐄𝐘𝐒 ⎭ ⊱―—═¤
 Information:
-Developer: @lendd2
-Version: New Updatw
+Developer: @dapzyyyyyyahaha
+Version: New Update 
 Status: Baileys Berhasil Terinstall
 Update date: 16/09/26
 `));
-console.log(chalk.bold.cyan("Follow Our Telegram Channel To See Update Information: t.me/infoarlend\n"));
+console.log(chalk.bold.cyan("Follow Our Telegram Channel To See Update Information: t.me/dapzybotcoin\n"));
 console.log(chalk.bold.gray("--------------------------------------------\n"));
 const index_1 = __importDefault(require('./Socket/index'));
 exports.makeWASocket = index_1.default;
